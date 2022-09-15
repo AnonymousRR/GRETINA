@@ -4,6 +4,8 @@ This anonymous repo is created to support RR for the GRETINA dataset during the 
 
 The file "Discarded_left_samples.csv" contains the list of 42 Messidor-2 samples that we discarded from Messidor-2 data set.
 
+Link to the training set: https://drive.google.com/file/d/1c5-kQFHRtAa4yEHEG-_5mPOg_m2iKLpw/view?usp=sharing
+
 Here is the link to the shared folder that contains the generated retina images that we used for unlinkability evaluation. We resized them to 750x750 pixel images before using. Link: https://drive.google.com/drive/folders/1HELUM4FBz85LisCEQFdg_iHRWOnpSGgw?usp=sharing
 
 Here is the link to the snapshot for 5,000,000 generated retina. Use the pickle file to generate the retinal images. Link to the trained model: (https://drive.google.com/file/d/1LYsNTU-g23k0wNWeYzDdADkafIuyhM0D/view?usp=sharing)
