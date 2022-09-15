@@ -6,7 +6,7 @@ The file "Discarded_left_samples.csv" contains the list of 42 Messidor-2 samples
 
 Here is the link to the shared folder that contains the generated retina images that we used for unlinkability evaluation. We resized them to 750x750 pixel images before using. Link: https://drive.google.com/drive/folders/1HELUM4FBz85LisCEQFdg_iHRWOnpSGgw?usp=sharing
 
-Here is the link to the snapshot for 5,000,000 generated retina. Use the pickle file to generate the retinal images. Link: https://drive.google.com/file/d/1-tM_XpWLoOOG2i8xNN75v3jPoy5mkMeh/view?usp=sharing
+Here is the link to the snapshot for 5,000,000 generated retina. Use the pickle file to generate the retinal images. Link: (https://drive.google.com/file/d/1LYsNTU-g23k0wNWeYzDdADkafIuyhM0D/view?usp=sharing)
 
 Note: --trunc=0.7 will generate 70% of the images which have better quality.
 Use the following code to generate images:
