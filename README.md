@@ -2,7 +2,7 @@
 This anonymous repo is created to support RR for the GRETINA dataset during the blind-review process of the paper. 
 
 
-The file "Discarded_left_samples.csv" contains the list of 42 Messidor-2 samples that we discarded from Messidor-2 data set.
+The file "Discarded_left_samples.csv" contains the list of 42 Messidor-2 samples that we discarded from Messidor-2 dataset.
 
 Link to the training set: https://drive.google.com/file/d/1c5-kQFHRtAa4yEHEG-_5mPOg_m2iKLpw/view?usp=sharing
 
